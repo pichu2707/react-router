@@ -1,4 +1,4 @@
-[!React](./public/logo512.png)
+[!React](https://github.com/pichu2707/react-router/blob/master/public/logo512.png)
 # Creación y ampliación de mini-aplicación web
 Hemos realizado un menú de navegación donde ahí nos ha permitido trabajar con diferentes módulos que nos ofrece React
 El módulo que en el que más nos hemos apoyado en el curso ha sido **react router** el cual aun con las actualizaciones que han habido
